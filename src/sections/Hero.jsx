@@ -35,7 +35,7 @@ export const Hero = () => {
         <img
           src='/hero-bg.png'
           alt='Hero Background'
-          className='w-full h-full object-cover opacity-100'
+          className='w-full h-full object-cover opacity-20'
         />
         <div className='absolute inset-0 bg-linear-to-b from-background/20 via-background/50 to-background'></div>
       </div>
