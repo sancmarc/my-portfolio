@@ -72,19 +72,21 @@ export const Hero = () => {
             {/* headline */}
             <div className='space-y-4'>
               <h1 className='text-5xl md:text-6xl lg:text-7xl font-bold leading-tight animate-fade-in animation-delay-100'>
-                Crafting <span className='text-primary glow-text'>digital</span>
-                <br />
-                experiences with
+                Engineering{' '}
+                <span className='text-primary glow-text'>
+                  secure and scalable{' '}
+                </span>
                 <br />
                 <span className='font-serif italic font-normal text-white'>
-                  precision.
+                  systems.
                 </span>
               </h1>
               <p className='text-lg text-muted-foreground max-w-lg animate-fade-in animation-delay-200'>
-                Hi, I'm Marco, a passionate software engineer specializing in
-                React. I create seamless and engaging web applications that
-                bring ideas to life. With a focus on clean code and user-centric
-                design, I strive to deliver exceptional digital experiences.
+                Hi, I'm Marco, an IT professional and full stack developer with
+                expertise in IT Administrator, system management and network
+                engineering. I build resilient infrastructures and modern web
+                applications while expanding my skills in cloud, DevOps and
+                Cybersecurity.
               </p>
             </div>
             {/* CTAs */}
