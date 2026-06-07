@@ -80,6 +80,7 @@ const technologiesOverview = {
     'Google Workspace'
   ],
   security: [
+    'Arista NG Firewall Management',
     'Bitdefender Endpoint Security',
     'SSL Configurations',
     'SIEM Tools (Wazuh, ELK)'
@@ -120,8 +121,7 @@ export const Experience = () => {
             className='text-muted-foreground
            animate-fade-in animation-delay-200'
           >
-            A timeline of my professional growth, from curious beginner to
-            senior engineer leading teams and building products at scale.
+            From my early days as a Junior Programmer debugging code and supporting users, to building full&ndash;stack applications and now managing enterprise IT infrastructure, my career has been defined by continuous growth. I&rsquo;ve led deployments of VMware ESXi, NAS/iSCSI storage, and Arista NG Firewall, while also delivering secure web solutions and supporting Oracle ERP systems. Today, as IT Manager, I focus on scalable, audit&ndash;friendly solutions and SIEM deployments like Wazuh, preparing for the next step into cloud and security engineering.
           </p>
         </div>
 
