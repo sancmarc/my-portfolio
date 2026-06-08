@@ -1,4 +1,4 @@
-import { ArrowUpRight } from 'lucide-react'
+import { ArrowUpRight, Download } from 'lucide-react'
 import { AnimatedBorderButton } from '../components/AnimatedBorderButton'
 import { SlSocialGithub } from 'react-icons/sl'
 const projectsDev = [
@@ -208,9 +208,10 @@ export const Projects = () => {
                   <a
                     href={project.link}
                     target='_blank'
+                    download={`${project.title}.pdf`}
                     className='p-3 rounded-full glass hover:bg-primary hover:text-primary-foreground transition-all'
                   >
-                    <ArrowUpRight className='w-5 h-5' />
+                    <Download className='w-5 h-5' />
                   </a>
                 </div>
               </div>
