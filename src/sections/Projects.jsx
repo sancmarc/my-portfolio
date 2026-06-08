@@ -72,7 +72,7 @@ const itProfessional = [
       'Configured a new internal server on VMware ESXi. Managed DNS, and Apache2 configs',
     image: '/img/infra/server-deployment-nas-with-vm.JPG',
     tags: ['Infrastructure, NAS, VM'],
-    link: '/docs/infra/Server-Deployment-with-NAS-Storage.pdf'
+    link: '/public/docs/infra/Server-Deployment-with-NAS-Storage.pdf'
   }
 ]
 
