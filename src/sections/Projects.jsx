@@ -67,12 +67,12 @@ const projectsDev = [
 
 const itProfessional = [
   {
-    title: 'Server Deployment & SSL Configuration',
+    title: 'Server Deployment',
     description:
       'Configured a new internal server on VMware ESXi. Managed DNS, and Apache2 configs',
     image: '/img/infra/server-deployment-nas-with-vm.JPG',
     tags: ['Infrastructure, NAS, VM'],
-    link: '/public/docs/infra/Server-Deployment-with-NAS-Storage.pdf'
+    link: 'https://drive.google.com/file/d/1hNdGhHPXNtf4nvonKga0uMNDvxF9VH4s/view?usp=sharing'
   }
 ]
 
@@ -208,10 +208,10 @@ export const Projects = () => {
                   <a
                     href={project.link}
                     target='_blank'
-                    download={`${project.title}.pdf`}
+                
                     className='p-3 rounded-full glass hover:bg-primary hover:text-primary-foreground transition-all'
                   >
-                    <Download className='w-5 h-5' />
+                    <ArrowUpRight className='w-5 h-5' />
                   </a>
                 </div>
               </div>
