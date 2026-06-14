@@ -73,6 +73,14 @@ const itProfessional = [
     image: '/img/infra/server-deployment-nas-with-vm.JPG',
     tags: ['Infrastructure, NAS, VM'],
     link: 'https://drive.google.com/file/d/1hNdGhHPXNtf4nvonKga0uMNDvxF9VH4s/view?usp=sharing'
+  },
+  {
+    title: 'AWS S3 Website Hosting',
+    description:
+      'Hosting A static website on AWS S3 Bucket',
+    image: '/img/personal/aws-host-a-website-on-s3.jpg',
+    tags: ['AWS, S3, Hosting Website, ACL'],
+    link: 'https://drive.google.com/file/d/1LPhMsYVxbm6Kv-Lsqji48qAUomXMLaC0/view?usp=sharing'
   }
 ]
 
