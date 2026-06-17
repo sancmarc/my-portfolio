@@ -79,8 +79,16 @@ const itProfessional = [
     description:
       'Hosting A static website on AWS S3 Bucket',
     image: '/img/personal/aws-host-a-website-on-s3.jpg',
-    tags: ['AWS, S3, Hosting Website, ACL'],
+    tags: ['AWS, S3, Static Website Hosting, ACL'],
     link: 'https://drive.google.com/file/d/1LPhMsYVxbm6Kv-Lsqji48qAUomXMLaC0/view?usp=sharing'
+  },
+  {
+    title: 'Continuous Integration with CodeBuild',
+    description:
+      'Deploy CodeBuild in AWS Cloud',
+    image: '/img/personal/devops/aws-devops-codebuild.jpg',
+    tags: ['AWS, EC2, IAM, CodeArtifact, S3 Bucket, CodeBuild'],
+    link: 'https://drive.google.com/file/d/1MRWWopUqAMPL3N01e-T0JOMFngtIyYeo/view?usp=sharing'
   }
 ]
 
