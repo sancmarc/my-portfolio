@@ -4,7 +4,7 @@ const experiences = [
     role: 'IT Officer',
     company: 'STB Giga.',
     description:
-      'Build IT Infrastructure from the Bottom',
+      'Building IT Infrastructure from the Bottom',
     technologies: [
       'Ruijie - Network',
       'Odoo (ERP, CRM, Manufacturing)',
