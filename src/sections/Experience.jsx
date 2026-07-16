@@ -1,6 +1,20 @@
 const experiences = [
   {
-    period: '2023 — Present',
+    period: '2026 — Present',
+    role: 'IT Officer',
+    company: 'STB Giga.',
+    description:
+      'Build IT Infrastructure from the Bottom',
+    technologies: [
+      'Ruijie - Network',
+      'Odoo (ERP, CRM, Manufacturing)',
+      'Fortinet - Ongoing',
+
+    ],
+    current: true
+  },
+  {
+    period: '2023 — 2026',
     role: 'IT Manager',
     company: 'L&K Industries Philippines INC.',
     description:
@@ -14,7 +28,7 @@ const experiences = [
       'NAS/iSCSI',
       'Linux Administration'
     ],
-    current: true
+    current: false
   },
   {
     period: '2022 — 2023',
