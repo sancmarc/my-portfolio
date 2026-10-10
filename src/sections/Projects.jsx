@@ -3,6 +3,19 @@ import { AnimatedBorderButton } from "../components/AnimatedBorderButton";
 import { SlSocialGithub } from "react-icons/sl";
 const projectsDev = [
   {
+    title: "Home Sweet Home Massage",
+    description:
+      "Developed a responsive WordPress website for Home Sweet Home Massage with a custom Gutenberg theme, English, Korean and Chinese pages, treatment listings and a wellness blog. Configured Rank Math SEO and Google Search Console to support search visibility. Following launch, the owner reported more calls from customers who found the business through Google.",
+    image: "/img/virtu/virtu-ph.png",
+    tags: ["WordPress",
+      "Custom Template",
+      "SEO",
+      "SGE",
+      "Social Media"],
+    link: "https://virtu-ph.com",
+    github: "#",
+  },
+  {
     title: "Virtu-ph.com",
     description:
       "A modern web application built with React and Next.js, enhanced with Motion for animations and Tailwind CSS for styling. Focused on creating a fast, scalable, and visually engaging digital presence for Virtu PH.",
@@ -25,15 +38,6 @@ const projectsDev = [
     ],
     link: "https://artsteel.no",
     github: "#",
-  },
-  {
-    title: "Bistro 8 Italian Restaurant",
-    description:
-      "A full‑stack web application with inventory management, dynamic menu control, processing workflows, and automated billing.",
-    image: "/img/bistro8/bistro8-top-image.jpg",
-    tags: ["Laravel", "jQuery", "Bootstrap", "SweetAlert2", "JavaScript"],
-    link: "#",
-    github: "https://github.com/sancmarc/BISTRO8",
   },
   {
     title: "Bistro 8 Italian Restaurant",
