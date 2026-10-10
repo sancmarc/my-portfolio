@@ -12,7 +12,7 @@ const projectsDev = [
       "SEO",
       "SGE",
       "Social Media"],
-    link: "https://virtu-ph.com",
+    link: "https://hshmassageph.com/",
     github: "#",
   },
   {
