@@ -6,7 +6,7 @@ const projectsDev = [
     title: "Home Sweet Home Massage",
     description:
       "Developed a responsive WordPress website for Home Sweet Home Massage with a custom Gutenberg theme, English, Korean and Chinese pages, treatment listings and a wellness blog. Configured Rank Math SEO and Google Search Console to support search visibility. Following launch, the owner reported more calls from customers who found the business through Google.",
-    image: "/img/virtu/virtu-ph.png",
+    image: "/img/hsh/hsh-front.jpg",
     tags: ["WordPress",
       "Custom Template",
       "SEO",
